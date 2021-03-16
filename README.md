@@ -1,3 +1,3 @@
 # RestaurantOrderSystem
 Implementation of linked lists used to organize and efficiently serve restaurant carryout orders.
-This program organizes a list of a restaurant order carryout list that efficiently tracks what orders are set and their priority, the wait times per order,
+This program can add an in-person or a call-ahead order to the queue styled list, list the orders ahead of any order, display all orders' information, display wait time for any given order, and more.
